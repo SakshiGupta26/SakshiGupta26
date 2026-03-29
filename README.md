@@ -121,14 +121,39 @@ A **trustless crowdfunding contract** supporting campaign creation, ETH contribu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakshigupta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshigupta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+<!-- Stats card + Grade -->
+<img src="https://github-readme-stats.vercel.app/api?username=sakshigupta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshigupta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshigupta&theme=tokyonight&hide_border=true" />
+<!-- Streak stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshigupta&theme=tokyonight&hide_border=true" width="49%"/>
+
+</div>
+
+<div align="center">
+
+<!-- Radar / Activity graph (Commits, PRs, Issues, Code Review) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakshigupta&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakshigupta&theme=tokyonight&utcOffset=+5.5" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshigupta&theme=tokyonight" width="32%"/>
+
+</div>
+
+<div align="center">
+
+<!-- Full profile summary (the radar chart row) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshigupta&theme=tokyonight" width="98%"/>
+
+</div>
+
+<div align="center">
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=sakshigupta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="98%"/>
 
 </div>
 
