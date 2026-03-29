@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sakshi+Gupta+%F0%9F%91%8B;Blockchain+%26+Web3+Developer+%E2%9B%93;Smart+Contract+Engineer+%F0%9F%94%97;Java+Backend+Dev+%7C+DSA+Grinder+%F0%9F%92%AA;Building+on+Ethereum+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=sakshigupta&label=Profile+Views&color=00f5d4&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=SakshiGupta26&label=Profile+Views&color=00f5d4&style=flat" alt="profile views" />
 
 </div>
 
@@ -30,7 +30,7 @@ I'm a **Blockchain & Web3 Developer** and **Java Backend Engineer** currently pu
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sakshi_gupta-2)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Sakshi_gupta-2)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sakshi_gupta_2)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshigupta)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshiGupta26)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshi1246999@gmail.com)
 
 </div>
@@ -95,7 +95,7 @@ A **production-quality decentralized KYC system** on Ethereum where raw PII (Nam
 - 🔄 **3-of-5 social recovery** mechanism for compromised wallets
 - ✅ Comprehensive Hardhat/Chai tests covering reentrancy, expired claims & double registration
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshigupta)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshiGupta26)
 
 ---
 
@@ -104,7 +104,7 @@ A **production-quality decentralized KYC system** on Ethereum where raw PII (Nam
 
 Automated lorry booking, payment, and delivery verification on Ethereum with **secure escrow logic** — funds release only upon confirmed delivery. Integrated with a JavaScript frontend via Ethers.js.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshigupta)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshiGupta26)
 
 ---
 
@@ -113,7 +113,7 @@ Automated lorry booking, payment, and delivery verification on Ethereum with **s
 
 A **trustless crowdfunding contract** supporting campaign creation, ETH contributions, and automated refunds if funding goals are unmet. All activity recorded immutably on-chain.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshigupta)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshiGupta26)
 
 ---
 
@@ -122,38 +122,38 @@ A **trustless crowdfunding contract** supporting campaign creation, ETH contribu
 <div align="center">
 
 <!-- Stats card + Grade -->
-<img src="https://github-readme-stats.vercel.app/api?username=sakshigupta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshigupta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SakshiGupta26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiGupta26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 
 </div>
 
 <div align="center">
 
 <!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshigupta&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiGupta26&theme=tokyonight&hide_border=true" width="49%"/>
 
 </div>
 
 <div align="center">
 
 <!-- Radar / Activity graph (Commits, PRs, Issues, Code Review) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakshigupta&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakshigupta&theme=tokyonight&utcOffset=+5.5" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshigupta&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SakshiGupta26&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SakshiGupta26&theme=tokyonight&utcOffset=+5.5" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakshiGupta26&theme=tokyonight" width="32%"/>
 
 </div>
 
 <div align="center">
 
 <!-- Full profile summary (the radar chart row) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshigupta&theme=tokyonight" width="98%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SakshiGupta26&theme=tokyonight" width="98%"/>
 
 </div>
 
 <div align="center">
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=sakshigupta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="98%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SakshiGupta26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="98%"/>
 
 </div>
 
