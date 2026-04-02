@@ -1,6 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sakshi+Gupta+%F0%9F%91%8B;Blockchain+%26+Web3+Developer+%E2%9B%93;Smart+Contract+Engineer+%F0%9F%94%97;Java+Backend+Dev+%7C+DSA+Grinder+%F0%9F%92%AA;Building+on+Ethereum+%F0%9F%9F%A2)](https://git.io/typing-svg)
+<!-- 🎬 Coding Banner GIF — day & night grind -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250px" style="border-radius:10px;" alt="coding gif"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sakshi+Gupta+%F0%9F%91%8B;Blockchain+%26+Web3+Developer+%E2%9B%93;Smart+Contract+Engineer+%F0%9F%94%97;Java+Backend+Dev+%7C+DSA+Grinder+%F0%9F%92%AA;Building+on+Ethereum+%F0%9F%9F%A2;Coding+Day+%26+Night+%F0%9F%8C%99%E2%98%80%EF%B8%8F)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=SakshiGupta26&label=Profile+Views&color=00f5d4&style=flat" alt="profile views" />
 
@@ -9,6 +14,8 @@
 ---
 
 ## 🧑‍💻 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="border-radius:8px;"/>
 
 > *"Code is law — I just make sure it's good law."*
 
@@ -19,6 +26,9 @@ I'm a **Blockchain & Web3 Developer** and **Java Backend Engineer** currently pu
 - 🛡️ Passionate about **ZK-style cryptography, DeFi security & on-chain privacy**
 - 🌱 Currently exploring **DEX mechanics, AMMs, and advanced DeFi protocols**
 - 🎯 Preparing for **GATE CSE** alongside competitive programming
+- 🌙 Coding from **dawn to dusk** — blockchain never sleeps and neither do I
+
+<br clear="right"/>
 
 ---
 
