@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 🎬 Coding Banner GIF — day & night grind -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250px" style="border-radius:10px;" alt="coding gif"/>
+<!-- 🎬 Coding Banner GIF — girl coding day & night -->
+<img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100%" height="250px" style="border-radius:10px;" alt="girl coding gif"/>
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="border-radius:8px;"/>
+<img align="right" alt="Girl Coding" width="320" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="border-radius:8px;"/>
 
 > *"Code is law — I just make sure it's good law."*
 
