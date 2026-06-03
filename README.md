@@ -129,13 +129,7 @@ A **trustless crowdfunding contract** supporting campaign creation, ETH contribu
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<!-- Stats card + Grade -->
-<img src="https://github-readme-stats.vercel.app/api?username=SakshiGupta26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiGupta26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
-
-</div>
 
 <div align="center">
 
