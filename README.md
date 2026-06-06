@@ -251,6 +251,20 @@ const now = {
 
 ---
 
+## 🌍 Open Source Contributions
+
+<div align="center">
+
+![PR Merged](https://img.shields.io/badge/✅_PR_Merged-fork--commit--merge-238636?style=for-the-badge&labelColor=0d1117)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-00f5d4?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+- ✅ **PR merged** into [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) — a popular open source project designed to help developers learn the GitHub contribution workflow (Fork → Commit → Merge). Successfully contributed to the upstream repository.
+- ⭐ **C-Coin** (forked from [DSCKGEC/C-Coin](https://github.com/DSCKGEC/C-Coin)) — contributed to a blockchain & Web 2.0 transaction imitation project under MIT License.
+
+---
+
 ## 🏆 Competitive Programming
 
 <div align="center">
